@@ -1,0 +1,5 @@
+1. semantic html gives the web page meaning instead of just presentation. 
+2.  width, padding, border, margin
+3.  verticle axis
+4. it lets you see who did what and past versions of different code. 
+5. mobile first design is when a site is designed for mobile use and then desktop etc is created off of that. 
